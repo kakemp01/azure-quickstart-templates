@@ -7,6 +7,9 @@
     },
     "sqlAdministratorLoginPassword": {		
       "value": "GEN-PASSWORD"		
-    }		
+    },
+    "hostingPlanName": {
+      "value": "GEN-HOSTPLAN"
+    }
   }
 }
