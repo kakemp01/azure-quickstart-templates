@@ -10,6 +10,15 @@
     },
     "hostingPlanName": {
       "value": "GEN-HOSTPLAN"
+    },
+    "websiteName": {
+      "value": "GEN-WEBSITENAME"
+    },
+    "sqlserverName": {
+      "value": "GEN-SQLSERVERNAME"
+    },
+    "databaseName": {
+      "value": "GEN-DATABASENAME"
     }
   }
 }
